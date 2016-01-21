@@ -1,4 +1,7 @@
-# F# Type Provider Starter Pack
+[![Issue Stats](http://issuestats.com/github/fsprojects/FSharp.TypeProviders.StarterPack/badge/issue)](http://issuestats.com/github/fsprojects/FSharp.TypeProviders.StarterPack)
+[![Issue Stats](http://issuestats.com/github/fsprojects/FSharp.TypeProviders.StarterPack/badge/pr)](http://issuestats.com/github/fsprojects/FSharp.TypeProviders.StarterPack)
+
+# F# Type Provider Starter Pack [![NuGet Status](http://img.shields.io/nuget/v/FSharp.TypeProviders.StarterPack.svg?style=flat)](https://www.nuget.org/packages/FSharp.TypeProviders.StarterPack/)
 
 The F# Type Provider Starter Pack is two things: a code only NuGet package with the code
 files you'll need to get you started in type provider creation, and a repository of tutorials
@@ -16,7 +19,13 @@ F# Foundation.
 
 ## Build status
 
+### Windows (.net)
+
 [![Build status](https://ci.appveyor.com/api/projects/status/y1c6gs2r0ihog1re)](https://ci.appveyor.com/project/mavnn/fsharp-typeproviders-starterpack)
+
+### MacOS (mono)
+
+[![Build Status](https://travis-ci.org/fsprojects/FSharp.TypeProviders.StarterPack.svg?branch=master)](https://travis-ci.org/fsprojects/FSharp.TypeProviders.StarterPack)
 
 ## Documentation 
 
@@ -48,3 +57,11 @@ For advice on how to get started building a type provider, check out:
 The library is available under Apache 2.0. For more information see the [License file][1] in the GitHub repository.
 
  [1]: https://github.com/mavnn/FSharp.TypeProviders.StarterPack/blob/master/LICENSE.md
+
+
+## Maintainer(s)
+
+- [@mavnn](https://github.com/mavnn)
+- [@ovatsus](https://github.com/ovatsus)
+
+The default maintainer account for projects under "fsprojects" is [@fsprojectsgit](https://github.com/fsprojectsgit) - F# Community Project Incubation Space (repo management)

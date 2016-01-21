@@ -1,0 +1,11 @@
+language: csharp
+mono:
+  - latest
+  - 3.2.8
+
+env:
+ global:
+  - EnableNuGetPackageRestore=true 
+
+script:
+ - ./build.sh RunTests
